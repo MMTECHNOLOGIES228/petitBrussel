@@ -62,7 +62,7 @@
         display: inline-block;
         content: "\e874";
         font-family: 'Linearicons-Free';
-        font-size: 13px;
+        font-size: 16px;
         color: #777777;
         top: 0px;
         height: 100%;
@@ -236,3 +236,4 @@
         padding: 0px 8px;
     }
 }
+
